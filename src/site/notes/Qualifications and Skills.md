@@ -27,7 +27,7 @@
 - [[Rust|Rust]] 🔷
 
 ### Artificial Intelligence
-- [[Text Categorization|Text Categorization]] 🔷🔷🔷
+- [[projects/Text Categorization|Text Categorization]] 🔷🔷🔷
 - [[Text Summarization|Text Summarization]] 🔷🔷🔷
 - [[Text to Speech|Text to Speech]] 🔷🔷
 - [[Speech to Text|Speech to Text]] 🔷
