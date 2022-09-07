@@ -6,22 +6,22 @@
 
 ## Hard Skills
 ### Languages
-- [[Spanish|Spanish]] 🔷🔷🔷🔷🔷
+- [[entities/Spanish|Spanish]] 🔷🔷🔷🔷🔷
 - [[English|English]] 🔷🔷🔷🔷🔷
 - [[French|French]] 🔷🔷🔹
 
 ### Automation
-- [[VBA|VBA]] 🔷🔷🔷🔷🔷
-- [[Power Automate|Power Automate]] 🔷🔷🔷🔹
+- [[entities/VBA|VBA]] 🔷🔷🔷🔷🔷
+- [[entities/Power Automate|Power Automate]] 🔷🔷🔷🔹
 - [[Pega Systems|Pega Systems]] 🔷🔹
 - [[SAP Boxi|SAP]] 🔷
 - [[Automation Anywhere|Automation Anywhere]] 🔷
 
 ### Programming Languages
-- [[VBA|VBA]] 🔷🔷🔷🔷🔷
-- [[Python|Python]] 🔷🔷🔷🔷
+- [[entities/VBA|VBA]] 🔷🔷🔷🔷🔷
+- [[entities/Python|Python]] 🔷🔷🔷🔷
 - [[Markdown|Markdown]] 🔷🔷🔷🔹
-- [[Javascript|Javascript]] 🔷🔷🔹
+- [[entities/Javascript|Javascript]] 🔷🔷🔹
 - [[HTML-CSS|HTML-CSS]] 🔷🔷🔹
 - [[PHP|PHP]] 🔷
 - [[Rust|Rust]] 🔷
@@ -60,12 +60,12 @@
 
 ### Marketing and Sales
 - [[Hubspot|Hubspot]] 🔷🔷🔷🔷
-- [[Salesforce|Salesforce]] 🔷🔷🔷
+- [[entities/Salesforce|Salesforce]] 🔷🔷🔷
 - [[Freshworks|Freshworks]] 🔷🔷
 - [[Zoho|Zoho]] 🔷🔷
 
 ### Business Intelligence
-- [[PowerBI|PowerBI]] 🔷🔷🔷🔹
+- [[entities/PowerBI|PowerBI]] 🔷🔷🔷🔹
 - [[Tableau|Tableau]] 🔷🔷🔹
 - [[SAP Boxi|SAP Boxi]] 🔷
 
