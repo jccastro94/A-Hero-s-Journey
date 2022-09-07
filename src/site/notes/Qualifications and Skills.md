@@ -14,15 +14,15 @@
 - [[VBA|VBA]] 🔷🔷🔷🔷🔷
 - [[Power Automate|Power Automate]] 🔷🔷🔷🔹
 - [[Pega Systems|Pega Systems]] 🔷🔹
-- [[SAP Platforms|SAP Platforms]] 🔷🔹
+- [[SAP Boxi|SAP]] 🔷
 - [[Automation Anywhere|Automation Anywhere]] 🔷
 
 ### Programming Languages
 - [[VBA|VBA]] 🔷🔷🔷🔷🔷
 - [[Python|Python]] 🔷🔷🔷🔷
-- [[Markdown|Markdown]] 🔷🔷🔷
-- [[Javascript|Javascript]] 🔷🔷
-- [[HTML-CSS|HTML-CSS]] 🔷🔷
+- [[Markdown|Markdown]] 🔷🔷🔷🔹
+- [[Javascript|Javascript]] 🔷🔷🔹
+- [[HTML-CSS|HTML-CSS]] 🔷🔷🔹
 - [[PHP|PHP]] 🔷
 - [[Rust|Rust]] 🔷
 
@@ -33,56 +33,62 @@
 - [[Speech to Text|Speech to Text]] 🔷
 
 ### Financial
-- [[Financial modeling|Financial modeling]]
-- [[T-Account Bookkeeping|T-Account Bookkeeping]]
+- [[Financial modeling|Financial modeling]] 🔷🔷🔷
+- [[T-Account Bookkeeping|T-Account Bookkeeping]] 🔷🔷🔷
 
 ### Project Management
-- [[SCRUM|SCRUM]] methodology
-- [[Project Management Institute|Project Management Institute]] methodology
-- [[Jira|Jira]]
-- [[Asana|Asana]]
+- [[Jira|Jira]] 🔷🔷🔷🔷
+- [[Asana|Asana]] 🔷🔷🔷🔷
+- [[SCRUM|SCRUM]] methodology 🔷🔷🔷
+- [[Project Management Institute|Project Management Institute]] methodology 🔷🔷
 
 ### Digital Editing
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe Premier
-- Adobe After Effects
-- Adobe InDesign
+- [[Adobe Photoshop|Adobe Photoshop]] 🔷🔷🔷🔹
+- [[Adobe Illustrator|Adobe Illustrator]] 🔷🔷🔷🔹
+- [[Adobe Premier|Adobe Premier]] 🔷🔷🔷
+- [[Adobe After Effects|Adobe After Effects]] 🔷🔷
+- [[Adobe InDesign|Adobe InDesign]] 🔷🔷
+- [[Adobe Audition|Adobe Audition]] 🔷🔷
 
 ### UI/UX
-- Adobe Xd
-- Figma
+- [[Figma|Figma]] 🔷🔷🔷🔷
+- [[Adobe Xd|Adobe Xd]] 🔷🔷🔷🔹
+
+### Web Frameworks
+- [[Wordpress|Wordpress]] 🔷🔷🔷
+- [[Reactjs|Reactjs]] 🔷🔷
 
 ### Marketing and Sales
-- Salesforce
-- Hubspot
-- Freshworks
-- Zoho
+- [[Hubspot|Hubspot]] 🔷🔷🔷🔷
+- [[Salesforce|Salesforce]] 🔷🔷🔷
+- [[Freshworks|Freshworks]] 🔷🔷
+- [[Zoho|Zoho]] 🔷🔷
 
 ### Business Intelligence
-- PowerBI
-- Tableau
-- SAP Boxi
+- [[PowerBI|PowerBI]] 🔷🔷🔷🔹
+- [[Tableau|Tableau]] 🔷🔷🔹
+- [[SAP Boxi|SAP Boxi]] 🔷
 
 ## Infrastructure
-- Sharepoint
-- AWS
-- Heroku
-- Netlify
+- [[Sharepoint|Sharepoint]] 🔷🔷🔷🔹
+- [[Azure|Azure]] 🔷🔷🔹
+- [[AWS|AWS]] 🔷🔷
+- [[Heroku|Heroku]] 🔷🔷
+- [[Netlify|Netlify]] 🔷🔷
 
 ## Productivity
-- Obsidian MD
-- Teams
-- MS Office
-- Notion
-- Zoom
-- Coda
-- Roam Research
+- [[ObsidianMD|ObsidianMD]] 🔷🔷🔷🔷🔷
+- [[Teams|Teams]] 🔷🔷🔷🔷🔷
+- [[MS Office|MS Office]] 🔷🔷🔷🔷🔷
+- [[Notion|Notion]] 🔷🔷🔷🔹
+- [[Zoom|Zoom]] 🔷🔷🔷🔹
+- [[Coda|Coda]] 🔷🔷🔹
+- [[Roam Research|Roam Research]] 🔷🔷🔹
 
 ### Other
-- Blockchain
-- Poetry
-- Cooking
+- [[Blockchain|Blockchain]] 🔷🔷🔹
+- [[Poetry|Poetry]] ✒️
+- [[Cooking|Cooking]] 🍚
 
 
 ## Soft Skills
