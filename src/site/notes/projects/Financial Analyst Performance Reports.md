@@ -27,7 +27,7 @@ After making sure all the data could be read and processed in excel, we had to e
 This was my favorite part. We were always trying to figure out the best metrics to measure performance. We also had a set of metrics we always had to give. This step was just a couple of days of using formulas to summarize data and measure performance. The statistical analysis was done on each individual MD to then be able to compare them with their peers and get a perspective of the best and worse performing MDs.
 
 ### 5) Report Building
-This was the easiest step of all. We had to get the data and put it in [[PowerBI|PowerBI]] dashboards as well as create all sorts of Excel charts and tables. We would include certain notes and comments, and format everything to print. In the end, it was easily a 200 page report, used to give the MDs their performace report and the Head of Global the full picture of how [[entities/the bank|the bank]] was performing. 
+This was the easiest step of all. We had to get the data and put it in [[entities/PowerBI|PowerBI]] dashboards as well as create all sorts of Excel charts and tables. We would include certain notes and comments, and format everything to print. In the end, it was easily a 200 page report, used to give the MDs their performace report and the Head of Global the full picture of how [[entities/the bank|the bank]] was performing. 
 
 ### 6) Proof Reading / Review
 About 2 weeks were spent ensuring that we had the correct information and that every detail was correct and perfect. The product had to be perfect, without flaw. This report was used to let go MDs at times of restructuring, so it had to be thoroughly vetted before any action was taken on it. 
