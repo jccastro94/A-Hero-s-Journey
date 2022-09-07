@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-![[DALL·E 2022-08-31 17.02.16 - An oil painting of a magical dark library with books on the desk recently studied.png|DALL·E 2022-08-31 17.02.16 - An oil painting of a magical dark library with books on the desk recently studied.png]] 
+
 # Julio Castro Campollo
 # Professional Profile Summary
 - I am a highly analytical decision-maker, used to creating performance reports, analyzing methodologies, and improving efficiency through automation, using Business Intelligence tools such as Microsoft’s Power Automate as well as programming languages such as Javascript, Python, and VBA
