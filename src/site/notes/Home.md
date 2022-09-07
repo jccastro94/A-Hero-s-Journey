@@ -4,6 +4,8 @@
 
 
 # Julio Castro Campollo
+**In the Relentless Pursuit of Excellence**
+
 # Professional Profile Summary
 - I am a highly analytical decision-maker, used to creating performance reports, analyzing methodologies, and improving efficiency through automation, using Business Intelligence tools such as Microsoft’s Power Automate as well as programming languages such as Javascript, Python, and VBA
 - I am a resourceful manager, with experience managing small teams and small businesses (20 employees), restructuring roles, processes, budgets, and mantaining and creating client and business relationships.
