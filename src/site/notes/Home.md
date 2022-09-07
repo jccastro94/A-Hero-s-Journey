@@ -8,11 +8,12 @@
 
 ---
 # Professional Profile Summary
-- I am a highly analytical decision-maker, used to creating performance reports, analyzing methodologies, and improving efficiency through automation, using Business Intelligence tools such as Microsoft’s Power Automate as well as programming languages such as Javascript, Python, and VBA
+- I am a highly analytical decision-maker, used to creating performance reports, analyzing methodologies, and improving efficiency through automation, using Business Intelligence tools such as Microsoft’s [[Power Automate|Power Automate]] as well as programming languages such as [[Javascript|Javascript]], [[Python|Python]], and [[VBA|VBA]].
 - I am a resourceful manager, with experience managing small teams and small businesses (20 employees), restructuring roles, processes, budgets, and mantaining and creating client and business relationships.
-- I am a jack of all trades, with projects varying from using AI to summarize and categorize research, to creating and editing video and audio for advertisement. I am comfortable not only at selling and presenting but also at negotiating. 
+- I am a jack of all trades, with projects varying from using AI to summarize and [[Text Categorization|categorize]] research, to creating and editing video and audio for advertisement. I am comfortable not only at selling and presenting but also at negotiating. 
 ---
 
+*Click to view*
 ## 📖 [[Contact info and profile links|Contact info and profile links]]
 ## 💼 [[Professional experience|Professional experience]]
 ## 🖥️ [[Qualifications and Skills|Qualifications and Skills]]
